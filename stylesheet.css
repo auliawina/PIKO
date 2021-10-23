@@ -1,0 +1,126 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    list-style: none;
+    float: left;
+    padding-top: 33px;
+    padding-right: 20px;
+    padding-bottom: 33px;
+    padding-left: 20px;
+}
+.header {
+    background-color: whitesmoke;
+    height: 90px;
+}
+.header-logo{
+    float: left;
+    color: #2596be;
+    font-size: 36px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-right: 500px;
+}
+/* .btn-header input {
+    border: 1px solid #dee7ec;
+    font-size: 18px;
+    width: 100px;
+} */
+.btn-header {
+    background-color: #dee7ec;
+    color: #889eab;
+    border: 1px solid #dee7ec;
+    font-size: 18px;
+    width: 100px;
+}
+.main {
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-left: 20px;
+    padding-bottom: 80px; 
+}
+.main-container{
+    padding-bottom: 25px;
+}
+.contents{
+    border-bottom: 2px solid #dee7ec;
+}
+.copy-container {
+    float: right;
+    align-items: center;
+    border-bottom: 2px solid #dee7ec;
+    padding-bottom: 25px;
+}
+.copy-container h2{
+    font-size: 30px;
+    padding-left: 400px;
+}
+.content-item{
+    float: left;
+    padding-right: 20px;
+    padding-left: 300px;
+}
+.content-items{
+    float: left;
+    padding-right: 20px;
+    padding-left: 300px;
+}
+.btn-kedua {
+    background-color: #dee7ec;
+    color: #889eab;
+    border: 1px solid #dee7ec;
+    font-size: 18px;
+    width: 200px;
+}
+/* .btn-kedua input {
+    border: 1px solid #dee7ec;
+    font-size: 18px;
+    width: 300px;
+} */
+.quiz {
+    border-bottom: 2px solid #dee7ec;
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+.quiz-content{
+    padding-left: 300px;
+}
+.btn-quiz {
+    padding-left: 500px;
+}
+.btn-quiz input{
+    border: 1px solid #dee7ec;
+    font-size: 18px;
+    width: 300px;
+    background-color: #dee7ec;
+    color: #889eab;
+}
+.keunggulan {
+    font-size: 18px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 500px;
+}
+.keunggulan-item {
+    float: right;
+    padding-right: 125px;
+    margin-right:40px ;
+}
+.footer {
+    background-color:whitesmoke;
+    height: 270px;
+    color: gray;
+    height: 120px;
+}
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+.footer-list {
+    float: right;
+}
+.footer-list li{
+    padding-bottom: 20px;
+}
+
